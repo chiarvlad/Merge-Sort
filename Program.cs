@@ -98,7 +98,7 @@ namespace Merge_Sort
             }
 
             WriteLine ("\n");
-            WriteLine ($" List elements comparisons {opCounter}");
+            WriteLine ($" Number of comparisons between array elements {opCounter}");
         }
     }
 }
