@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\___C-Sharp\\Merge-sort\\Merge-Sort.csproj": {}
+    "D:\\___C-Sharp\\Merge-Sort\\Merge-Sort.csproj": {}
   },
   "projects": {
-    "D:\\___C-Sharp\\Merge-sort\\Merge-Sort.csproj": {
+    "D:\\___C-Sharp\\Merge-Sort\\Merge-Sort.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\___C-Sharp\\Merge-sort\\Merge-Sort.csproj",
+        "projectUniqueName": "D:\\___C-Sharp\\Merge-Sort\\Merge-Sort.csproj",
         "projectName": "Merge-Sort",
-        "projectPath": "D:\\___C-Sharp\\Merge-sort\\Merge-Sort.csproj",
+        "projectPath": "D:\\___C-Sharp\\Merge-Sort\\Merge-Sort.csproj",
         "packagesPath": "C:\\Users\\Stefan\\.nuget\\packages\\",
-        "outputPath": "D:\\___C-Sharp\\Merge-sort\\obj\\",
+        "outputPath": "D:\\___C-Sharp\\Merge-Sort\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Stefan\\AppData\\Roaming\\NuGet\\NuGet.Config",
