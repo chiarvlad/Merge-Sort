@@ -1,0 +1,11 @@
+D:\___C-Sharp\Merge-Sort\obj\Debug\netcoreapp3.1\Merge-Sort.csprojAssemblyReference.cache
+D:\___C-Sharp\Merge-Sort\obj\Debug\netcoreapp3.1\Merge-Sort.AssemblyInfoInputs.cache
+D:\___C-Sharp\Merge-Sort\obj\Debug\netcoreapp3.1\Merge-Sort.AssemblyInfo.cs
+D:\___C-Sharp\Merge-Sort\bin\Debug\netcoreapp3.1\Merge-Sort.exe
+D:\___C-Sharp\Merge-Sort\bin\Debug\netcoreapp3.1\Merge-Sort.deps.json
+D:\___C-Sharp\Merge-Sort\bin\Debug\netcoreapp3.1\Merge-Sort.runtimeconfig.json
+D:\___C-Sharp\Merge-Sort\bin\Debug\netcoreapp3.1\Merge-Sort.runtimeconfig.dev.json
+D:\___C-Sharp\Merge-Sort\bin\Debug\netcoreapp3.1\Merge-Sort.dll
+D:\___C-Sharp\Merge-Sort\bin\Debug\netcoreapp3.1\Merge-Sort.pdb
+D:\___C-Sharp\Merge-Sort\obj\Debug\netcoreapp3.1\Merge-Sort.dll
+D:\___C-Sharp\Merge-Sort\obj\Debug\netcoreapp3.1\Merge-Sort.pdb
